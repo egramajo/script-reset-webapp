@@ -1,1 +1,1 @@
-# script-reset-webapp
+# script-reset-wa
